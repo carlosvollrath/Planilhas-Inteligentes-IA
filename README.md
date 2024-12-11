@@ -3,9 +3,9 @@
 
 Organize suas finanças, projetos e crie dashboards incríveis com nossas planilhas inteligentes!
 
-💰 Financeira: Controle suas despesas, receitas e investimentos de forma prática e eficiente. br><br
-🛠️ Projetos: Gerencie seus projetos com facilidade, acompanhando prazos, tarefas e recursos.
-📊 Dashboards: Crie visualizações dinâmicas e interativas para monitorar seus dados em tempo real.
+💰 Financeira: Controle suas despesas, receitas e investimentos de forma prática e eficiente.<br/>
+🛠️ Projetos: Gerencie seus projetos com facilidade, acompanhando prazos, tarefas e recursos.<br/>
+📊 Dashboards: Crie visualizações dinâmicas e interativas para monitorar seus dados em tempo real.<br/>
 🚀 Por que usar nossas planilhas?
 
 Fácil de usar: Interface intuitiva e amigável.
